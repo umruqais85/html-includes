@@ -13,3 +13,6 @@ https://css-tricks.com/the-simplest-ways-to-handle-html-includes/
 
 using w3schools appml  
 https://www.w3schools.com/appml/appml_includes.asp
+
+using w3schools w3js  
+https://www.w3schools.com/w3js/w3js_html_include.asp
