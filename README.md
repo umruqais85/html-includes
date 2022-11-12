@@ -8,8 +8,8 @@ the other 2files are:
 header.js , footer.js
 
 
-Also other ways:
+Also other ways:<br>
 https://css-tricks.com/the-simplest-ways-to-handle-html-includes/
 
-using w3schools appml
+using w3schools appml<br>
 https://www.w3schools.com/appml/appml_includes.asp
